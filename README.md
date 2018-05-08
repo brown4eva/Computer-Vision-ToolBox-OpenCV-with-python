@@ -6,7 +6,7 @@ This is an implementation of OpenCV using python to develop a toolbox to perform
 These instructions below will get you a copy of the project and the necessary documents needed for you to implement our project.
 
 **Instructions.**
-1. Read the report to know hoa to use the tool box.
+1. Read the report to know how to use the tool box.
 2. Watch the video below to see how to perform tasks with the toolbox.
 
 **Videos :**
